@@ -1,3 +1,6 @@
 Hi, I am Dean
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deankajosevic&theme=omni&show_icons=true&hide_border=true&count_private=true)
+- I primarily code in Python, C++, and TypeScript
+- I have experience using Docker and Jenkins
+- My hobbies include video games, djing, and music production
+- Looking to improve my technical skills and adapt my knowledge to my interests
